@@ -10,8 +10,7 @@
 
 ## 🖼️ Prévia
 
-<img src="https://user-images.githubusercontent.com/00000000/000000000-00000000-0000-0000-000000000000.png" alt="Preview do projeto" width="600"/>
-<sub>💡 Substitua por um print real da interface se desejar</sub>
+<img src="https://github.com/user-attachments/assets/230e589e-ea6d-4355-b9f5-3565bc8af3f7" alt="Preview do projeto" width="600"/>
 
 ---
 
