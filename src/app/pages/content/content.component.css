@@ -14,9 +14,9 @@
 .content__cover > img{
   border:5px solid rgb(144, 144, 144);
   border-radius: 5px;
-  width: 1000px;
-  min-width: 500px;
-  height: 600px;
+  width: 500px;
+  min-width: 300px;
+  height: 300px;
 }
 
 .description {
@@ -26,7 +26,7 @@
   max-width: 1500px;
   margin-left: auto;
   margin-right: auto;
-  font-size: 32px; 
+  font-size: 20px; 
   text-align: justify; 
   text-indent: 3em;
 
@@ -35,5 +35,5 @@
 
 .content__description > p{
   margin-top: 20px;
-  color: rgb(198, 197, 197);
+  color: rgb(48, 1, 54);
 }
