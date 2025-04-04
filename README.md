@@ -10,7 +10,9 @@
 
 ## 🖼️ Prévia
 
-<img src="https://github.com/user-attachments/assets/230e589e-ea6d-4355-b9f5-3565bc8af3f7" alt="Preview do projeto" width="600"/>
+<img src="https://github.com/user-attachments/assets/cae8836d-c691-42fc-898f-74e119aa3900" alt="Preview do projeto" width="600"/>
+
+
 
 ---
 
