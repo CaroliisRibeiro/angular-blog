@@ -4,9 +4,10 @@
   margin:0;
   padding:0;
   box-sizing: border-box;
-  background-color:rgb(52, 2, 45);
-  color:white;
+  background-color: rgb(251, 221, 247);
+  color: rgb(35, 2, 30);
   font-family: 'Open Sans', sans-serif;
+  
 }
 
 a{
