@@ -12,3 +12,11 @@
 a{
   text-decoration: none;
 }
+
+.content__title h1 {
+  font-size: 82px; /* ou maior se quiser */
+  font-weight: bold;
+  text-align: center; /* opcional */
+  margin-top: 20px;
+}
+

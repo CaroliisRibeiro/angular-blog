@@ -1,5 +1,6 @@
 .container__small-card{
   margin-bottom: 15px;
+  
 
   @media(min-width: 900px) {
     width: 600px;
@@ -16,7 +17,7 @@
 .small-card__photo > img {
   width: 200px;
   min-width: 200px;
-  margin-right: 20px;
+  margin-right: 30px;
 }
 
 .small-card__title {
@@ -26,9 +27,11 @@
 }
 
 .small-card__title > h1 {
-  font-size: 16px;
+  font-size: 25px;
+  text-align: high;
+
 }
 
 .container__small-card__separator{
-  margin-top: 10px;
+  margin-top: 40px;
 }
